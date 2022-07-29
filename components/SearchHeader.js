@@ -3,6 +3,7 @@ import Image from 'next/image'
 import { useRouter } from 'next/router'
 import { useRef } from 'react'
 import { SearchIcon, MicrophoneIcon, XIcon } from '@heroicons/react/solid'
+import SearchHeaderOptions from './SearchHeaderOptions'
 
 export default function SearchHeader() {
 	const router = useRouter()
@@ -38,6 +39,7 @@ export default function SearchHeader() {
 				</form>
 				<User className='ml-auto whitespace-nowrap' />
 			</div>
+			<SearchHeaderOptions />
 		</header>
 	)
 }
