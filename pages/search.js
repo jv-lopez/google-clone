@@ -21,8 +21,9 @@ export default function search({ results }) {
 }
 
 export async function getServerSideProps(context) {
+	const startIndex = context.query.start || "1"
 	const mockData = false;
-	const data = mockData ? Response : await fetch(`https://www.googleapis.com/customsearch/v1?key=${process.env.API_KEY}&cx=${process.env.CONTEXT_KEY}&q=${context.query.term}${context.query.searchType && "&searchType=image"}`).then((response) => response.json())
+	const data = mockData ? Response : await fetch(`https://www.googleapis.com/customsearch/v1?key=${process.env.API_KEY}&cx=${process.env.CONTEXT_KEY}&q=${context.query.term}${context.query.searchType && "&searchType=image"}&start=${startIndex}`).then((response) => response.json())
 
 	return {
 		props: {
