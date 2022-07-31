@@ -1,0 +1,248 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - jameshwart",
+                "totalResults": "3030",
+                "searchTerms": "jameshwart",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "87d5546eb48264e7f",
+                "searchType": "image"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - jameshwart",
+                "totalResults": "3030",
+                "searchTerms": "jameshwart",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "87d5546eb48264e7f",
+                "searchType": "image"
+            }
+        ]
+    },
+    "context": {
+        "title": "go-clone"
+    },
+    "searchInformation": {
+        "searchTime": 0.359537,
+        "formattedSearchTime": "0.36",
+        "totalResults": "3030",
+        "formattedTotalResults": "3,030"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Jameshwart Lopez - Home | Facebook",
+            "htmlTitle": "<b>Jameshwart</b> Lopez - Home | Facebook",
+            "link": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=281837755939599",
+            "displayLink": "www.facebook.com",
+            "snippet": "Jameshwart Lopez - Home | Facebook",
+            "htmlSnippet": "<b>Jameshwart</b> Lopez - Home | Facebook",
+            "mime": "image/",
+            "fileFormat": "image/",
+            "image": {
+                "contextLink": "https://www.facebook.com/jameshwartlopez/",
+                "height": 544,
+                "width": 544,
+                "byteSize": 51335,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDcsnLb6t72yIIZE8-12OludyFzxbGhsmVsgfIMgvNxrBqHlqUVHPU-cOt&s",
+                "thumbnailHeight": 133,
+                "thumbnailWidth": 133
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "User jameshwart lopez - Ask Ubuntu",
+            "htmlTitle": "User <b>jameshwart</b> lopez - Ask Ubuntu",
+            "link": "https://i.stack.imgur.com/8GlBe.jpg?s=256&g=1",
+            "displayLink": "askubuntu.com",
+            "snippet": "User jameshwart lopez - Ask Ubuntu",
+            "htmlSnippet": "User <b>jameshwart</b> lopez - Ask Ubuntu",
+            "mime": "image/jpeg",
+            "fileFormat": "image/jpeg",
+            "image": {
+                "contextLink": "https://askubuntu.com/users/423521/jameshwart-lopez",
+                "height": 256,
+                "width": 256,
+                "byteSize": 28422,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfD_NQO-8A236aBhKUfi26znhy9SIjg-H5i9fA5lTBOsbX62reK43&s",
+                "thumbnailHeight": 111,
+                "thumbnailWidth": 111
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "trd-jameshwart (Jameshwart Lopez) · GitHub",
+            "htmlTitle": "trd-<b>jameshwart</b> (<b>Jameshwart</b> Lopez) · GitHub",
+            "link": "https://avatars.githubusercontent.com/u/10732118?v=4",
+            "displayLink": "github.com",
+            "snippet": "trd-jameshwart (Jameshwart Lopez) · GitHub",
+            "htmlSnippet": "trd-<b>jameshwart</b> (<b>Jameshwart</b> Lopez) · GitHub",
+            "mime": "image/",
+            "fileFormat": "image/",
+            "image": {
+                "contextLink": "https://github.com/trd-jameshwart",
+                "height": 400,
+                "width": 400,
+                "byteSize": 20723,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRK89t9gq-nAKtq4GIjQ9QyG6ymngysdyMoN-heES8cI0XmcEPjkwbg&s",
+                "thumbnailHeight": 124,
+                "thumbnailWidth": 124
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Woocommerce Expert Developer Philippines - Jameshwart Lopez",
+            "htmlTitle": "Woocommerce Expert Developer Philippines - <b>Jameshwart</b> Lopez",
+            "link": "https://jameshwartlopez.com/wp-content/uploads/2020/03/me2.jpg",
+            "displayLink": "jameshwartlopez.com",
+            "snippet": "Woocommerce Expert Developer Philippines - Jameshwart Lopez",
+            "htmlSnippet": "Woocommerce Expert Developer Philippines - <b>Jameshwart</b> Lopez",
+            "mime": "image/jpeg",
+            "fileFormat": "image/jpeg",
+            "image": {
+                "contextLink": "https://jameshwartlopez.com/",
+                "height": 544,
+                "width": 617,
+                "byteSize": 93486,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2tLhfnqjldjZarCF2EwIjblcpakAD-4tbiVb5Ovwz84EFGlrKMBrxOA&s",
+                "thumbnailHeight": 120,
+                "thumbnailWidth": 136
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "User jameshwart lopez - Ask Ubuntu",
+            "htmlTitle": "User <b>jameshwart</b> lopez - Ask Ubuntu",
+            "link": "https://i.stack.imgur.com/8GlBe.jpg?s=192&g=1",
+            "displayLink": "askubuntu.com",
+            "snippet": "User jameshwart lopez - Ask Ubuntu",
+            "htmlSnippet": "User <b>jameshwart</b> lopez - Ask Ubuntu",
+            "mime": "image/jpeg",
+            "fileFormat": "image/jpeg",
+            "image": {
+                "contextLink": "https://askubuntu.com/users/423521/jameshwart-lopez",
+                "height": 400,
+                "width": 400,
+                "byteSize": 20219,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx9zQwcfIoLXsZeFFYyivKGDd-PF5g0XjAGZzOGXb0MSd2SX-oL-dPIQ&s",
+                "thumbnailHeight": 124,
+                "thumbnailWidth": 124
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Jameshwart Lopez - Home | Facebook",
+            "htmlTitle": "<b>Jameshwart</b> Lopez - Home | Facebook",
+            "link": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=300582584065116",
+            "displayLink": "www.facebook.com",
+            "snippet": "Jameshwart Lopez - Home | Facebook",
+            "htmlSnippet": "<b>Jameshwart</b> Lopez - Home | Facebook",
+            "mime": "image/",
+            "fileFormat": "image/",
+            "image": {
+                "contextLink": "https://www.facebook.com/jameshwartlopez/",
+                "height": 312,
+                "width": 820,
+                "byteSize": 378791,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAqsf1HpVgSW8HXxe6glMx62G9Lv8ruJgU_uGcOBVHedpVGT172uJnITs&s",
+                "thumbnailHeight": 55,
+                "thumbnailWidth": 144
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "jameshwartlopez (Jameshwart Lopez) · GitHub",
+            "htmlTitle": "jameshwartlopez (<b>Jameshwart</b> Lopez) · GitHub",
+            "link": "https://avatars.githubusercontent.com/u/12094295?v=4",
+            "displayLink": "github.com",
+            "snippet": "jameshwartlopez (Jameshwart Lopez) · GitHub",
+            "htmlSnippet": "jameshwartlopez (<b>Jameshwart</b> Lopez) · GitHub",
+            "mime": "image/",
+            "fileFormat": "image/",
+            "image": {
+                "contextLink": "https://github.com/jameshwartlopez",
+                "height": 400,
+                "width": 400,
+                "byteSize": 20713,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRldswwLRXMy-gEZEpkW3xEH3iuRCjumqYO7Bc8T0gIuUzlxIZ-bnrwEA&s",
+                "thumbnailHeight": 124,
+                "thumbnailWidth": 124
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Hi Manash, this is really a good article and im looking forward to ...",
+            "htmlTitle": "Hi Manash, this is really a good article and im looking forward to ...",
+            "link": "https://miro.medium.com/fit/c/176/176/0*KRk2ReC-h1jhH02C.jpg",
+            "displayLink": "medium.com",
+            "snippet": "Hi Manash, this is really a good article and im looking forward to ...",
+            "htmlSnippet": "Hi Manash, this is really a good article and im looking forward to ...",
+            "mime": "image/jpeg",
+            "fileFormat": "image/jpeg",
+            "image": {
+                "contextLink": "https://medium.com/@jameshwartlopez/hi-manash-this-is-really-a-good-article-and-im-looking-forward-to-lstm-3ec6219cfd95",
+                "height": 176,
+                "width": 176,
+                "byteSize": 7206,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-BfbXo930tVPO2zsvTKG7wDLAB2FQThuLkrFfdMR8iTgKOl8eMpei&s",
+                "thumbnailHeight": 100,
+                "thumbnailWidth": 100
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "linksyncjameshwartlopez (Jameshwart Lopez) · GitHub",
+            "htmlTitle": "linksyncjameshwartlopez (<b>Jameshwart</b> Lopez) · GitHub",
+            "link": "https://avatars.githubusercontent.com/u/17696792?v=4",
+            "displayLink": "github.com",
+            "snippet": "linksyncjameshwartlopez (Jameshwart Lopez) · GitHub",
+            "htmlSnippet": "linksyncjameshwartlopez (<b>Jameshwart</b> Lopez) · GitHub",
+            "mime": "image/",
+            "fileFormat": "image/",
+            "image": {
+                "contextLink": "https://github.com/linksyncjameshwartlopez",
+                "height": 460,
+                "width": 460,
+                "byteSize": 22738,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtkp9SfAiSk7-uEweri0X6JEE7TJ5gbVYvuK4-Yu9RnPP06q5i960-ArQ&s",
+                "thumbnailHeight": 128,
+                "thumbnailWidth": 128
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Browse profiles of Database & IT freelancers & agencies- page 296",
+            "htmlTitle": "Browse profiles of Database &amp; IT freelancers &amp; agencies- page 296",
+            "link": "https://hubstaff-talent.s3.amazonaws.com/avatars/f855646662b2e80d2fb313848250158c",
+            "displayLink": "talent.hubstaff.com",
+            "snippet": "Browse profiles of Database & IT freelancers & agencies- page 296",
+            "htmlSnippet": "Browse profiles of Database &amp; IT freelancers &amp; agencies- page 296",
+            "mime": "image/",
+            "fileFormat": "image/",
+            "image": {
+                "contextLink": "https://talent.hubstaff.com/categories/database-it/profiles?page=296",
+                "height": 300,
+                "width": 300,
+                "byteSize": 13253,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZwAaRv774MGUrBZND2d-nkE32JRXYAFy1haRQ71vu7JsCkt9oz7u2Iw&s",
+                "thumbnailHeight": 116,
+                "thumbnailWidth": 116
+            }
+        }
+    ]
+}
